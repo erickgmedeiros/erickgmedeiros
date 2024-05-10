@@ -12,9 +12,11 @@ Hello, I'm Erick Garcia Medeiros and this is my Data Analysis Portfolio
 
 - Dashboard 1 - Relatório de Vendas
 - Relatório de Vendas feito a partir de dados fictícios
+- Necessário baixar para visualizar no Power BI
 
 - Dashboard 2 - Relatório de RH
 - RH Report feito a partir de dados fictícios
+- Necessário baixar para visualizar no Power BI
 
 
 
